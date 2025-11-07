@@ -20,7 +20,7 @@ export default function Hero() {
           >
             <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-balance">Welcome to P'Gun's Portfolio.</h1>
             <p className="text-lg text-muted-foreground max-w-lg">
-              Explore my work, skills, and experiences. Let's create something amazing together.
+              สวัสดีครับผมพี่กันต์ กันต์ธีภพ กล่ำฉ่ำ ยินดีที่ได้รู้จักครับ
             </p>
           </div>
 
