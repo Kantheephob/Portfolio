@@ -15,7 +15,7 @@ interface Project {
 const projects: Project[] = [ // <--- 3. อัปเดต data
   {
     id: 1,
-    title: "Notalgia Liftlog",
+    title: "Nostalgia Liftlog",
     description: [
       `ระบบค้นหาภาพด้วยข้อความ โดยใช้เทคโนโลยี CLIP จาก OpenAI`,
       `พัฒนาโดยใช้ภาษา Python ร่วมกับ Framework Flask สำหรับ Backend และ React สำหรับ Frontend`,
